@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51891014583",
+    "project_id": "rupiah-ki",
+    "storage_bucket": "rupiah-ki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51891014583:android:09b5229ba0f84e2912f632",
+        "android_client_info": {
+          "package_name": "com.juniordev.rupiahking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51891014583-ls4up838vqm2quvn80q042731n4aka1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiNbsl778-V-b36jcGXJP-4s10fVA5l2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51891014583-ls4up838vqm2quvn80q042731n4aka1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
